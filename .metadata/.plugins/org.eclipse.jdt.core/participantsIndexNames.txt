@@ -1,0 +1,11 @@
+INDEX VERSION 1.127
+H:\New folder (2)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3778737110.index
+\example1\src\main\java
+H:\New folder (2)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2566479538.index
+\example2\src\main\java
+H:\New folder (2)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1466386810.index
+\example3\src\main\java
+H:\New folder (2)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1412310209.index
+\example4\src\main\java
+H:\New folder (2)\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\321544363.index
+\example1\src\main\java

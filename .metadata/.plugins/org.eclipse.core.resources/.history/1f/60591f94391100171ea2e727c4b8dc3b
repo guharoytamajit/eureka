@@ -1,0 +1,5 @@
+server.port=8761
+management.security.enabled=false
+eureka.client.fetchRegistry=false
+eureka.client.registerWithEureka=false
+eureka.client.healthcheck.enabled=true

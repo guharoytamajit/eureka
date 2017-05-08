@@ -1,0 +1,4 @@
+spring.application.name=demo
+server.port=8081
+#eureka.client.healthcheck.enabled=true
+eureka.server.enableSelfPreservation=false

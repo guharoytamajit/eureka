@@ -1,0 +1,27 @@
+package com;
+
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class GoogleHomePageTest {
+	
+
+	@BeforeClass
+	public void testSetUp() {
+		
+	
+	}
+	
+	@Test
+	public void verifyGooglePageTittle() {
+		Assert.assertEquals( 10, 11);
+	}
+	
+	@AfterClass
+	public void tearDown() {
+
+	}
+	
+}
